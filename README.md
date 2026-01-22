@@ -23,7 +23,7 @@ Dentro de la sección de proyectos, presento soluciones que combinan finanzas y 
 ## 📈 Habilidades Técnicas
 
 - **Data & Dev:** Excel, Python, SQL.
-- **Fintech:** Analisis de activos, Modelado Financiero.
+- **Fintech:** Analisis financiero, Modelado Financiero, Mercados Financieros.
 - **Automation:** n8n, Web Scraping, APIs.
 
 ---
