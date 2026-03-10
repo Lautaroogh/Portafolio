@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de mi portafolio profesional, desarrollado para integrar mi perfil como estudiante de Economía y Finanzas con mis habilidades en Data Science e IA.
 
-🔗 **[Ver Portafolio en Vivo](https://lautaroogh.github.io/Portafolio/)**
+🔗 **[Ver Portafolio en Vivo](https://portafolio.guardianolautaro.com/)**
 
 ---
 
